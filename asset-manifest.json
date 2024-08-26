@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Scheduler-Client/static/css/main.efe12dd9.css",
+    "main.js": "/Scheduler-Client/static/js/main.49efc275.js",
+    "static/media/landing.jpeg": "/Scheduler-Client/static/media/landing.4ca1d829fac9773d6fa5.jpeg",
+    "static/media/redux.cjs": "/Scheduler-Client/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/Scheduler-Client/index.html",
+    "main.efe12dd9.css.map": "/Scheduler-Client/static/css/main.efe12dd9.css.map",
+    "main.49efc275.js.map": "/Scheduler-Client/static/js/main.49efc275.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe12dd9.css",
+    "static/js/main.49efc275.js"
+  ]
+}
